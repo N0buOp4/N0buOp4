@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @N0buOp4 a early Retired US Marine (Grunt) turned Cyber Sec Child for life! I love to learn and enjoy teaching those who are over the excuse/justification
+- 👋 Hi, I’m @N0buOp4 an early Retired US Marine (Grunt) turned Cyber Sec Child for life! I love to learn and enjoy teaching those who are over the excuse/justification
       phase. 
-- 👀 I’m interested in all things Info-Sec. still searching for my "holy grail", but passionate in Offensive Security, Python, N/W.
+- 👀 I’m interested in all things Info-Sec. mainly RedTeam Ops, but still searching for my "holy grail." But my passion in Offensive Security, Python is the Tip where that takes me Dorthy know one knows lol.
 - 🌱 I’m currently learning ... Python, ejpt, my cyber lab
 - 💞️ I’m looking to collaborate on ... not sure yet right now trying to earn my place in this community first, but i am looking for help in the building of my lab 
        environment as it is pretty extensive as far as equipment goes just need help getting it all hooked up and locked down.
